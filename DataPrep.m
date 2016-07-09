@@ -1,3 +1,4 @@
+%Author: Sazia Mahfuz
 function [B,Data1]=DataPrep(Data)
 % Attribute names to be used for the categorical attributes
 R={'workclass','marital_status','native_country','relationship','race',...
