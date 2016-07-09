@@ -1,3 +1,4 @@
+%Author: Sazia Mahfuz
 % Calculating the accuracy for the predicted values 
 function accuracy=CalcAccuracy(Actual,Predicted)
 [nr nc]=size(Actual);
