@@ -1,3 +1,4 @@
+%Author: Sazia Mahfuz
 function [Data1MN,Data1SN,Bfreq,Bcat]=MakeModel(Data1,B)
 
 w=width(Data1);
