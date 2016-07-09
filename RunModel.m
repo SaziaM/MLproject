@@ -1,3 +1,4 @@
+%Author: Sazia Mahfuz
 function Predicted=RunModel(Data1,B,Data1MN,Data1SN,Bfreq,Bcat)
 
 % Calculating probability for the numerical attributes
